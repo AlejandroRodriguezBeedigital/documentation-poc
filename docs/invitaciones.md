@@ -11,6 +11,6 @@ last_reviewed: 2026-08-21
 
 ## Caducidad de una invitación
 
-Las invitaciones enviadas a nuevos usuarios caducan después de 48 horas.
+Las invitaciones caducan 48 horas después de su envío.
 
 Si la invitación ha caducado, el administrador deberá enviar una nueva.
